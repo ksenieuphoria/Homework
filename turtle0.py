@@ -1,9 +1,9 @@
-import turtle
+import turtle0
 
 window = turtle.Screen()
 window.bgcolor('silver')
 window.setup(700, 700)
-window.title("Turtle")
+window.title("Черепашка")
 
 turtle.shape("turtle")
 
