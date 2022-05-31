@@ -1,4 +1,4 @@
-import turtlee
+import turtle
 
 window = turtle.Screen()
 window.bgcolor('silver')
